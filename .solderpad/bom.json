@@ -1,0 +1,119 @@
+{
+	"items": [
+		{
+			"designator": "!MCLR",
+			"value": "",
+			"description": "Momentary Switch"
+		},
+		{
+			"designator": "C1",
+			"value": "22pf",
+			"description": "CAPACITOR, European symbol"
+		},
+		{
+			"designator": "C2",
+			"value": "22pf",
+			"description": "CAPACITOR, European symbol"
+		},
+		{
+			"designator": "C3",
+			"value": ".1uf",
+			"description": "CAPACITOR, European symbol"
+		},
+		{
+			"designator": "C4",
+			"value": ".47uf",
+			"description": "CAPACITOR, European symbol"
+		},
+		{
+			"designator": "JP1",
+			"value": "ICSP",
+			"description": "Header 5"
+		},
+		{
+			"designator": "JP2",
+			"value": "M10"",
+			"description": "Header 10"
+		},
+		{
+			"designator": "JP3",
+			"value": "M10"",
+			"description": "Header 10"
+		},
+		{
+			"designator": "LED1",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED2",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "Q1",
+			"value": "",
+			"description": "Crystals"
+		},
+		{
+			"designator": "R1",
+			"value": "10K",
+			"description": "RESISTOR, European symbol"
+		},
+		{
+			"designator": "R2",
+			"value": "1K",
+			"description": "RESISTOR, European symbol"
+		},
+		{
+			"designator": "R3",
+			"value": "10K",
+			"description": "RESISTOR, European symbol"
+		},
+		{
+			"designator": "R4",
+			"value": "1K",
+			"description": "RESISTOR, European symbol"
+		},
+		{
+			"designator": "R5",
+			"value": "470",
+			"description": "RESISTOR, European symbol"
+		},
+		{
+			"designator": "R6",
+			"value": "470",
+			"description": "RESISTOR, European symbol"
+		},
+		{
+			"designator": "SJ1",
+			"value": "SOLDERJUMPERTRACE",
+			"description": "Solder Jumper"
+		},
+		{
+			"designator": "SJ2",
+			"value": "SOLDERJUMPERTRACE",
+			"description": "Solder Jumper"
+		},
+		{
+			"designator": "SJ3",
+			"value": "SOLDERJUMPERTRACE",
+			"description": "Solder Jumper"
+		},
+		{
+			"designator": "SW2",
+			"value": "",
+			"description": "Momentary Switch"
+		},
+		{
+			"designator": "U1",
+			"value": "PIC18F14K50DIL",
+			"description": ""
+		},
+		{
+			"designator": "X1",
+			"value": "USBPTH",
+			"description": "USB Connectors"
+		}
+	]
+}
