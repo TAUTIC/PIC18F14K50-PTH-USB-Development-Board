@@ -32,12 +32,12 @@
 		},
 		{
 			"designator": "JP2",
-			"value": "M10"",
+			"value": "M10\"",
 			"description": "Header 10"
 		},
 		{
 			"designator": "JP3",
-			"value": "M10"",
+			"value": "M10\"",
 			"description": "Header 10"
 		},
 		{
